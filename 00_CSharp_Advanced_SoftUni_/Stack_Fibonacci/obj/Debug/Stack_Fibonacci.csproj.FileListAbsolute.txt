@@ -1,0 +1,5 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Stack_Fibonacci\bin\Debug\Stack_Fibonacci.exe.config
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Stack_Fibonacci\bin\Debug\Stack_Fibonacci.exe
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Stack_Fibonacci\bin\Debug\Stack_Fibonacci.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Stack_Fibonacci\obj\Debug\Stack_Fibonacci.exe
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Stack_Fibonacci\obj\Debug\Stack_Fibonacci.pdb

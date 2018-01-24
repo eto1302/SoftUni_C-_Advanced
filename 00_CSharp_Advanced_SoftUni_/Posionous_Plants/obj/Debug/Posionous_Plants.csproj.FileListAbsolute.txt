@@ -1,0 +1,6 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Posionous_Plants\bin\Debug\Posionous_Plants.exe.config
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Posionous_Plants\bin\Debug\Posionous_Plants.exe
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Posionous_Plants\bin\Debug\Posionous_Plants.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Posionous_Plants\obj\Debug\Posionous_Plants.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Posionous_Plants\obj\Debug\Posionous_Plants.exe
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Posionous_Plants\obj\Debug\Posionous_Plants.pdb

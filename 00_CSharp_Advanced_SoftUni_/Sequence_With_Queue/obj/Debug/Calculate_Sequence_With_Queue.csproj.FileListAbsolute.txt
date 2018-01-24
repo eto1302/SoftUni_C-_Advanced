@@ -1,0 +1,6 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Sequence_With_Queue\bin\Debug\Sequence_With_Queue.exe.config
+c:\users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Sequence_With_Queue\bin\Debug\Sequence_With_Queue.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Sequence_With_Queue\bin\Debug\Sequence_With_Queue.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Sequence_With_Queue\obj\Debug\Calculate_Sequence_With_Queue.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Sequence_With_Queue\obj\Debug\Sequence_With_Queue.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Sequence_With_Queue\obj\Debug\Sequence_With_Queue.pdb

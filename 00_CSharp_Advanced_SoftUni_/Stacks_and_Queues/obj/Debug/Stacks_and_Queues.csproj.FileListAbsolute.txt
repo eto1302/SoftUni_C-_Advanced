@@ -1,0 +1,6 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Stacks_and_Queues\bin\Debug\Stacks_and_Queues.exe.config
+c:\users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Stacks_and_Queues\bin\Debug\Stacks_and_Queues.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Stacks_and_Queues\bin\Debug\Stacks_and_Queues.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Stacks_and_Queues\obj\Debug\Stacks_and_Queues.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Stacks_and_Queues\obj\Debug\Stacks_and_Queues.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Stacks_and_Queues\obj\Debug\Stacks_and_Queues.pdb

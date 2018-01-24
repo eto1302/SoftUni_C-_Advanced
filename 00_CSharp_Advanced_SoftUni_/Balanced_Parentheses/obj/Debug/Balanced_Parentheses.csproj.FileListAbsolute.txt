@@ -1,0 +1,6 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Balanced_Parentheses\bin\Debug\Balanced_Parentheses.exe.config
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Balanced_Parentheses\bin\Debug\Balanced_Parentheses.exe
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Balanced_Parentheses\bin\Debug\Balanced_Parentheses.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Balanced_Parentheses\obj\Debug\Balanced_Parentheses.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Balanced_Parentheses\obj\Debug\Balanced_Parentheses.exe
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Balanced_Parentheses\obj\Debug\Balanced_Parentheses.pdb

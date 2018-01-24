@@ -1,0 +1,5 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Recursive_Fibonacci\bin\Debug\Recursive_Fibonacci.exe.config
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Recursive_Fibonacci\bin\Debug\Recursive_Fibonacci.exe
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Recursive_Fibonacci\bin\Debug\Recursive_Fibonacci.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Recursive_Fibonacci\obj\Debug\Recursive_Fibonacci.exe
+C:\Users\vikmar\documents\visual studio 2017\Projects\Stacks_and_Queues\Recursive_Fibonacci\obj\Debug\Recursive_Fibonacci.pdb
