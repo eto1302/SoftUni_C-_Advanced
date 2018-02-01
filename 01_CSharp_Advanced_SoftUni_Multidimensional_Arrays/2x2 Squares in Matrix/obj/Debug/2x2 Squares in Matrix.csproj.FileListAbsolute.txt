@@ -1,0 +1,5 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\2x2 Squares in Matrix\bin\Debug\2x2 Squares in Matrix.exe.config
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\2x2 Squares in Matrix\bin\Debug\2x2 Squares in Matrix.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\2x2 Squares in Matrix\bin\Debug\2x2 Squares in Matrix.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\2x2 Squares in Matrix\obj\Debug\2x2 Squares in Matrix.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\2x2 Squares in Matrix\obj\Debug\2x2 Squares in Matrix.pdb

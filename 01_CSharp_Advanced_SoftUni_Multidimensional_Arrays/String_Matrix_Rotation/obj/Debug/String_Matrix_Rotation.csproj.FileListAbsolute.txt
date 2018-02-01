@@ -1,0 +1,6 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\String_Matrix_Rotation\bin\Debug\String_Matrix_Rotation.exe.config
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\String_Matrix_Rotation\bin\Debug\String_Matrix_Rotation.exe
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\String_Matrix_Rotation\bin\Debug\String_Matrix_Rotation.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\String_Matrix_Rotation\obj\Debug\String_Matrix_Rotation.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\String_Matrix_Rotation\obj\Debug\String_Matrix_Rotation.exe
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\String_Matrix_Rotation\obj\Debug\String_Matrix_Rotation.pdb

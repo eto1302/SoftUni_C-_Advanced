@@ -1,0 +1,5 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Maximal Sum\bin\Debug\Maximal Sum.exe.config
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Maximal Sum\bin\Debug\Maximal Sum.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Maximal Sum\bin\Debug\Maximal Sum.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Maximal Sum\obj\Debug\Maximal Sum.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Maximal Sum\obj\Debug\Maximal Sum.pdb

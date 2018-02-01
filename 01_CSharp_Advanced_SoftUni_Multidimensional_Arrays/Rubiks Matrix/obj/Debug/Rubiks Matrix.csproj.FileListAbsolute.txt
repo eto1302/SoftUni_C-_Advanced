@@ -1,0 +1,6 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Rubiks Matrix\bin\Debug\Rubiks Matrix.exe.config
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Rubiks Matrix\bin\Debug\Rubiks Matrix.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Rubiks Matrix\bin\Debug\Rubiks Matrix.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Rubiks Matrix\obj\Debug\Rubiks Matrix.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Rubiks Matrix\obj\Debug\Rubiks Matrix.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Rubiks Matrix\obj\Debug\Rubiks Matrix.pdb

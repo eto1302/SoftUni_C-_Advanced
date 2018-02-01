@@ -1,0 +1,6 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Multidimensional_Arrays\bin\Debug\Multidimensional_Arrays.exe.config
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Multidimensional_Arrays\bin\Debug\Multidimensional_Arrays.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Multidimensional_Arrays\bin\Debug\Multidimensional_Arrays.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Multidimensional_Arrays\obj\Debug\Matrix of Palindromes.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Multidimensional_Arrays\obj\Debug\Multidimensional_Arrays.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Multidimensional_Arrays\obj\Debug\Multidimensional_Arrays.pdb

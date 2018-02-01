@@ -1,0 +1,6 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Heigan Dance\bin\Debug\Heigan Dance.exe.config
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Heigan Dance\bin\Debug\Heigan Dance.exe
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Heigan Dance\bin\Debug\Heigan Dance.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Heigan Dance\obj\Debug\Heigan Dance.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Heigan Dance\obj\Debug\Heigan Dance.exe
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Heigan Dance\obj\Debug\Heigan Dance.pdb

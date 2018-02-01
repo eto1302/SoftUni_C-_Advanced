@@ -1,0 +1,5 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Diagonal_Difference\bin\Debug\Diagonal_Difference.exe.config
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Diagonal_Difference\bin\Debug\Diagonal_Difference.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Diagonal_Difference\bin\Debug\Diagonal_Difference.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Diagonal_Difference\obj\Debug\Diagonal_Difference.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Diagonal_Difference\obj\Debug\Diagonal_Difference.pdb

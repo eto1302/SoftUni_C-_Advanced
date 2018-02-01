@@ -1,0 +1,5 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Lego Blocks\bin\Debug\Lego Blocks.exe.config
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Lego Blocks\bin\Debug\Lego Blocks.exe
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Lego Blocks\bin\Debug\Lego Blocks.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Lego Blocks\obj\Debug\Lego Blocks.exe
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Lego Blocks\obj\Debug\Lego Blocks.pdb

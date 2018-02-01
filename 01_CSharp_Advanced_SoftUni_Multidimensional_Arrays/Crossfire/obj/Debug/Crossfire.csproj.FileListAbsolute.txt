@@ -1,0 +1,6 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Crossfire\bin\Debug\Crossfire.exe.config
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Crossfire\bin\Debug\Crossfire.exe
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Crossfire\bin\Debug\Crossfire.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Crossfire\obj\Debug\Crossfire.exe
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Crossfire\obj\Debug\Crossfire.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\Multidimensional_Arrays\Crossfire\obj\Debug\Crossfire.csprojResolveAssemblyReference.cache
