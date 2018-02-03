@@ -1,0 +1,5 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Copy Binary File\bin\Debug\Copy Binary File.exe.config
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Copy Binary File\bin\Debug\Copy Binary File.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Copy Binary File\bin\Debug\Copy Binary File.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Copy Binary File\obj\Debug\Copy Binary File.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Copy Binary File\obj\Debug\Copy Binary File.pdb

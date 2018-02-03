@@ -1,0 +1,6 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Streams and Files\Zipping Sliced Files\bin\Debug\Zipping Sliced Files.exe.config
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Streams and Files\Zipping Sliced Files\bin\Debug\Zipping Sliced Files.exe
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Streams and Files\Zipping Sliced Files\bin\Debug\Zipping Sliced Files.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Streams and Files\Zipping Sliced Files\obj\Debug\Zipping Sliced Files.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Streams and Files\Zipping Sliced Files\obj\Debug\Zipping Sliced Files.exe
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Streams and Files\Zipping Sliced Files\obj\Debug\Zipping Sliced Files.pdb

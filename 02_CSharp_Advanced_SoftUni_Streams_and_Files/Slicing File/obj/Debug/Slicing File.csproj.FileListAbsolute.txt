@@ -1,0 +1,6 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Slicing File\bin\Debug\Slicing File.exe.config
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Slicing File\bin\Debug\Slicing File.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Slicing File\bin\Debug\Slicing File.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Slicing File\obj\Debug\Slicing File.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Slicing File\obj\Debug\Slicing File.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Slicing File\obj\Debug\Slicing File.pdb

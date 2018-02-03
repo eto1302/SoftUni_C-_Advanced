@@ -1,0 +1,5 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Line Numbers\bin\Debug\Line Numbers.exe.config
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Line Numbers\bin\Debug\Line Numbers.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Line Numbers\bin\Debug\Line Numbers.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Line Numbers\obj\Debug\Line Numbers.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Line Numbers\obj\Debug\Line Numbers.pdb

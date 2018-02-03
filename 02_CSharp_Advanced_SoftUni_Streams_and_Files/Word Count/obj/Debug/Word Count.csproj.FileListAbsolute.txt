@@ -1,0 +1,6 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Word Count\bin\Debug\Word Count.exe.config
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Word Count\bin\Debug\Word Count.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Word Count\bin\Debug\Word Count.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Word Count\obj\Debug\Word Count.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Word Count\obj\Debug\Word Count.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Word Count\obj\Debug\Word Count.csprojResolveAssemblyReference.cache

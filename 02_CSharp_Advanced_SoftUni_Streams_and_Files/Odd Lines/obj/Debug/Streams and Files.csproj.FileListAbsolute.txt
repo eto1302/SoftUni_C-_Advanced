@@ -1,0 +1,6 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Streams and Files\bin\Debug\Streams and Files.exe.config
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Streams and Files\bin\Debug\Streams and Files.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Streams and Files\bin\Debug\Streams and Files.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Streams and Files\obj\Debug\Streams and Files.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Streams and Files\obj\Debug\Streams and Files.exe
+c:\users\vikmar\documents\visual studio 2017\Projects\Streams and Files\Streams and Files\obj\Debug\Streams and Files.pdb
