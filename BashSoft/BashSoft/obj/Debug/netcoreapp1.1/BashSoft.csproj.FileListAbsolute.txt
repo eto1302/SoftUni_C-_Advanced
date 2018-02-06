@@ -1,0 +1,9 @@
+C:\Users\vikmar\Desktop\BashSoft\BashSoft\bin\Debug\netcoreapp1.1\BashSoft.deps.json
+C:\Users\vikmar\Desktop\BashSoft\BashSoft\bin\Debug\netcoreapp1.1\BashSoft.runtimeconfig.json
+C:\Users\vikmar\Desktop\BashSoft\BashSoft\bin\Debug\netcoreapp1.1\BashSoft.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\BashSoft\BashSoft\bin\Debug\netcoreapp1.1\BashSoft.dll
+C:\Users\vikmar\Desktop\BashSoft\BashSoft\bin\Debug\netcoreapp1.1\BashSoft.pdb
+C:\Users\vikmar\Desktop\BashSoft\BashSoft\obj\Debug\netcoreapp1.1\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Desktop\BashSoft\BashSoft\obj\Debug\netcoreapp1.1\BashSoft.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\BashSoft\BashSoft\obj\Debug\netcoreapp1.1\BashSoft.dll
+C:\Users\vikmar\Desktop\BashSoft\BashSoft\obj\Debug\netcoreapp1.1\BashSoft.pdb
