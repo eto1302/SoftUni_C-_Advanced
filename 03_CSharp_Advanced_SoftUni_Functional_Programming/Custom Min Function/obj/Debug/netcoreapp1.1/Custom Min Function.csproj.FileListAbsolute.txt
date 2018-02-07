@@ -1,0 +1,9 @@
+C:\Users\vikmar\Desktop\Functional Programming\Custom Min Function\bin\Debug\netcoreapp1.1\Custom Min Function.deps.json
+C:\Users\vikmar\Desktop\Functional Programming\Custom Min Function\bin\Debug\netcoreapp1.1\Custom Min Function.runtimeconfig.json
+C:\Users\vikmar\Desktop\Functional Programming\Custom Min Function\bin\Debug\netcoreapp1.1\Custom Min Function.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\Functional Programming\Custom Min Function\bin\Debug\netcoreapp1.1\Custom Min Function.dll
+C:\Users\vikmar\Desktop\Functional Programming\Custom Min Function\bin\Debug\netcoreapp1.1\Custom Min Function.pdb
+C:\Users\vikmar\Desktop\Functional Programming\Custom Min Function\obj\Debug\netcoreapp1.1\Custom Min Function.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Desktop\Functional Programming\Custom Min Function\obj\Debug\netcoreapp1.1\Custom Min Function.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\Functional Programming\Custom Min Function\obj\Debug\netcoreapp1.1\Custom Min Function.dll
+C:\Users\vikmar\Desktop\Functional Programming\Custom Min Function\obj\Debug\netcoreapp1.1\Custom Min Function.pdb

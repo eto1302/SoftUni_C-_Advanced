@@ -1,0 +1,8 @@
+C:\Users\vikmar\Desktop\Functional Programming\Reverse and Exclude\bin\Debug\netcoreapp1.1\Reverse and Exclude.deps.json
+C:\Users\vikmar\Desktop\Functional Programming\Reverse and Exclude\bin\Debug\netcoreapp1.1\Reverse and Exclude.runtimeconfig.json
+C:\Users\vikmar\Desktop\Functional Programming\Reverse and Exclude\bin\Debug\netcoreapp1.1\Reverse and Exclude.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\Functional Programming\Reverse and Exclude\bin\Debug\netcoreapp1.1\Reverse and Exclude.dll
+C:\Users\vikmar\Desktop\Functional Programming\Reverse and Exclude\bin\Debug\netcoreapp1.1\Reverse and Exclude.pdb
+C:\Users\vikmar\Desktop\Functional Programming\Reverse and Exclude\obj\Debug\netcoreapp1.1\Reverse and Exclude.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\Functional Programming\Reverse and Exclude\obj\Debug\netcoreapp1.1\Reverse and Exclude.dll
+C:\Users\vikmar\Desktop\Functional Programming\Reverse and Exclude\obj\Debug\netcoreapp1.1\Reverse and Exclude.pdb

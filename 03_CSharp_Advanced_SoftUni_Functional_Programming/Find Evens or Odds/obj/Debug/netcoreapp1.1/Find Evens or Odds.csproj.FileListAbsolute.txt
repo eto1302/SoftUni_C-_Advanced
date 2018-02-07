@@ -1,0 +1,8 @@
+C:\Users\vikmar\Desktop\Functional Programming\Find Evens or Odds\bin\Debug\netcoreapp1.1\Find Evens or Odds.deps.json
+C:\Users\vikmar\Desktop\Functional Programming\Find Evens or Odds\bin\Debug\netcoreapp1.1\Find Evens or Odds.runtimeconfig.json
+C:\Users\vikmar\Desktop\Functional Programming\Find Evens or Odds\bin\Debug\netcoreapp1.1\Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\Functional Programming\Find Evens or Odds\bin\Debug\netcoreapp1.1\Find Evens or Odds.dll
+C:\Users\vikmar\Desktop\Functional Programming\Find Evens or Odds\bin\Debug\netcoreapp1.1\Find Evens or Odds.pdb
+C:\Users\vikmar\Desktop\Functional Programming\Find Evens or Odds\obj\Debug\netcoreapp1.1\Find Evens or Odds.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\Functional Programming\Find Evens or Odds\obj\Debug\netcoreapp1.1\Find Evens or Odds.dll
+C:\Users\vikmar\Desktop\Functional Programming\Find Evens or Odds\obj\Debug\netcoreapp1.1\Find Evens or Odds.pdb

@@ -1,0 +1,8 @@
+C:\Users\vikmar\Desktop\Functional Programming\TriFunction\bin\Debug\netcoreapp1.1\TriFunction.deps.json
+C:\Users\vikmar\Desktop\Functional Programming\TriFunction\bin\Debug\netcoreapp1.1\TriFunction.runtimeconfig.json
+C:\Users\vikmar\Desktop\Functional Programming\TriFunction\bin\Debug\netcoreapp1.1\TriFunction.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\Functional Programming\TriFunction\bin\Debug\netcoreapp1.1\TriFunction.dll
+C:\Users\vikmar\Desktop\Functional Programming\TriFunction\bin\Debug\netcoreapp1.1\TriFunction.pdb
+C:\Users\vikmar\Desktop\Functional Programming\TriFunction\obj\Debug\netcoreapp1.1\TriFunction.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\Functional Programming\TriFunction\obj\Debug\netcoreapp1.1\TriFunction.dll
+C:\Users\vikmar\Desktop\Functional Programming\TriFunction\obj\Debug\netcoreapp1.1\TriFunction.pdb

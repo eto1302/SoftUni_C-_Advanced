@@ -1,0 +1,9 @@
+C:\Users\vikmar\Desktop\Functional Programming\List of Predicates\bin\Debug\netcoreapp1.1\List of Predicates.deps.json
+C:\Users\vikmar\Desktop\Functional Programming\List of Predicates\bin\Debug\netcoreapp1.1\List of Predicates.runtimeconfig.json
+C:\Users\vikmar\Desktop\Functional Programming\List of Predicates\bin\Debug\netcoreapp1.1\List of Predicates.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\Functional Programming\List of Predicates\bin\Debug\netcoreapp1.1\List of Predicates.dll
+C:\Users\vikmar\Desktop\Functional Programming\List of Predicates\bin\Debug\netcoreapp1.1\List of Predicates.pdb
+C:\Users\vikmar\Desktop\Functional Programming\List of Predicates\obj\Debug\netcoreapp1.1\List of Predicates.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Desktop\Functional Programming\List of Predicates\obj\Debug\netcoreapp1.1\List of Predicates.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\Functional Programming\List of Predicates\obj\Debug\netcoreapp1.1\List of Predicates.dll
+C:\Users\vikmar\Desktop\Functional Programming\List of Predicates\obj\Debug\netcoreapp1.1\List of Predicates.pdb

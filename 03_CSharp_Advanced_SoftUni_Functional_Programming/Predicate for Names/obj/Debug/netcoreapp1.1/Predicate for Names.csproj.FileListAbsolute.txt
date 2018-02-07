@@ -1,0 +1,8 @@
+C:\Users\vikmar\Desktop\Functional Programming\Predicate for Names\bin\Debug\netcoreapp1.1\Predicate for Names.deps.json
+C:\Users\vikmar\Desktop\Functional Programming\Predicate for Names\bin\Debug\netcoreapp1.1\Predicate for Names.runtimeconfig.json
+C:\Users\vikmar\Desktop\Functional Programming\Predicate for Names\bin\Debug\netcoreapp1.1\Predicate for Names.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\Functional Programming\Predicate for Names\bin\Debug\netcoreapp1.1\Predicate for Names.dll
+C:\Users\vikmar\Desktop\Functional Programming\Predicate for Names\bin\Debug\netcoreapp1.1\Predicate for Names.pdb
+C:\Users\vikmar\Desktop\Functional Programming\Predicate for Names\obj\Debug\netcoreapp1.1\Predicate for Names.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\Functional Programming\Predicate for Names\obj\Debug\netcoreapp1.1\Predicate for Names.dll
+C:\Users\vikmar\Desktop\Functional Programming\Predicate for Names\obj\Debug\netcoreapp1.1\Predicate for Names.pdb

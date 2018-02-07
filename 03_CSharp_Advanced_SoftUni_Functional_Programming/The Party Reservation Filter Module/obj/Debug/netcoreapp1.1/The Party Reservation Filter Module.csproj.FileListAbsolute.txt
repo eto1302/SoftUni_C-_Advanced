@@ -1,0 +1,9 @@
+C:\Users\vikmar\Desktop\Functional Programming\The Party Reservation Filter Module\bin\Debug\netcoreapp1.1\The Party Reservation Filter Module.deps.json
+C:\Users\vikmar\Desktop\Functional Programming\The Party Reservation Filter Module\bin\Debug\netcoreapp1.1\The Party Reservation Filter Module.runtimeconfig.json
+C:\Users\vikmar\Desktop\Functional Programming\The Party Reservation Filter Module\bin\Debug\netcoreapp1.1\The Party Reservation Filter Module.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\Functional Programming\The Party Reservation Filter Module\bin\Debug\netcoreapp1.1\The Party Reservation Filter Module.dll
+C:\Users\vikmar\Desktop\Functional Programming\The Party Reservation Filter Module\bin\Debug\netcoreapp1.1\The Party Reservation Filter Module.pdb
+C:\Users\vikmar\Desktop\Functional Programming\The Party Reservation Filter Module\obj\Debug\netcoreapp1.1\The Party Reservation Filter Module.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Desktop\Functional Programming\The Party Reservation Filter Module\obj\Debug\netcoreapp1.1\The Party Reservation Filter Module.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\Functional Programming\The Party Reservation Filter Module\obj\Debug\netcoreapp1.1\The Party Reservation Filter Module.dll
+C:\Users\vikmar\Desktop\Functional Programming\The Party Reservation Filter Module\obj\Debug\netcoreapp1.1\The Party Reservation Filter Module.pdb
